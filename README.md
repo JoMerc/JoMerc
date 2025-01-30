@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything data related especially machine Learning
 - 🌱 I’m especially interested in NLP...
 - 💞️ I’m looking to collaborate on anything...
-- 📫 Reach me at jmercer@agl.com.au
+- 📫 Reach me at joannemercer@talk21.com
 
 <!---
 JoMerc/JoMerc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
